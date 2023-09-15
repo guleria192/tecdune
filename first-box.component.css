@@ -1,0 +1,36 @@
+.box1{
+    height: 34px;
+    
+    display: flex;
+    background-color: white;
+    box-shadow: 0px 1px 4px rgb(187, 185, 185);
+    align-items: center;
+    
+}
+
+.icon1{
+    color: rgb(79, 79, 80);
+    
+    font-weight: 300;
+    margin-left: 33px;
+    font-size: 19px;
+    padding-bottom: 6px;
+    margin-right: 5px;
+
+
+}
+
+p{
+    font-size: 14px;
+    margin-right: 10px;
+    letter-spacing: .2px;
+    font-size: 14px;
+    margin-right: 9px;
+}
+
+.icon2{
+    color: rgb(79, 79, 80);
+    font-weight: 300;
+    font-size: 28px;
+    
+}

@@ -1,0 +1,31 @@
+.topBar-box{
+    height: 63px;
+    background-color: #2f4050;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 1px 11px 0px #676464;
+    z-index: 2;
+}
+
+
+.box1{
+    padding-bottom: 1px;
+    width: 280px;
+    height: 100%;
+}
+
+
+img{
+    padding: 9px 31px 0px 14px;
+}
+
+
+.box2{
+    flex: 1;
+    height: 100%;  
+}
